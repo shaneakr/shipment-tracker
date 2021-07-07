@@ -23,3 +23,4 @@ npx sequelize-cli seed:generate --name <seeder-name>
 ```
 
 and edit the generated file.
+
